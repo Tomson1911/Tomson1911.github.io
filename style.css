@@ -75,7 +75,8 @@ body{
         margin: 3px;
     }
     .hero::before {
-        background-position: center center; /* Pusatkan gambar */
-        background-size: cover; /* Gambar akan memenuhi elemen dan mempertahankan proporsi */
+        background-image: url(img/we.jpg);
+        background-position: center center;
+        background-size: cover;
       }
 }

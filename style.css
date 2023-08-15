@@ -44,7 +44,7 @@ body{
 }
 .hero a:hover{
     background-color: var(--pink);
-    color: white;
+    color: rgb(29, 15, 233);
 }
 
 @media(max-width: 992px){
